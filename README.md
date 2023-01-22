@@ -1,14 +1,12 @@
 # No Spoilers Chrome Extension
 A chrome browser extension that will hide spoilers from showing up when you are binging a show. It will remove the Episode Image, Title, and Description.
 
-## Services Currently Supported ##
-* Hulu
-
  <p align = 'center'>
-    <img align="center" src="https://github.com/WilliamPasternak/Top-Flor/blob/main/Top%20Floor%20Walkthrough.gif" alt="Home Page for Top Flor Agency">
+    <img align="center" src="https://github.com/WilliamPasternak/No-Spoilers-Chrome-Extension/blob/main/No%20Spoilers.gif" alt="Video showing functionality of 'No Spoilers' chrome extension">
 </p>
  
-
+## Services Currently Supported ##
+* Hulu
 
 ## How It's Made:
 
