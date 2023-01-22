@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "No Spoilers",
+  "icons": {
+    "16": "/icon-16.png",
+    "32": "/icon-32.png",
+    "48": "/icon-48.png"
+},
+  "description": "Hides spoilers caused by streaming services episode descriptions and images. Currently Supports: Hulu",
+  "version": "0.7",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "all_frames": true,
+      "js": ["Content.js"]
+    }
+  ]
+}
